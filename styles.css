@@ -204,3 +204,18 @@ html{scroll-padding-top:125px}
   .ticker-product{width:96px !important;flex-basis:96px !important;}
   .ticker-image{height:70px !important;}
 }
+
+/* Header Request a Quote Button */
+.nav-cta {
+  background-color: #B87960;
+  color: #FFFFFF;
+  border: 1px solid #B87960;
+  border-radius: 4px;
+}
+
+/* Hover Effect */
+.nav-cta:hover {
+  background-color: #94523E;
+  border-color: #94523E;
+  color: #FFFFFF;
+}
